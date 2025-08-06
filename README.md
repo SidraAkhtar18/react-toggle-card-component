@@ -1,12 +1,65 @@
-# React + Vite
+🚀 React Toggle Card Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic, responsive, and reusable card component built using **React.js** and **Tailwind CSS**. This project showcases core React concepts like **components**, **props**, **useState**, and **conditional rendering**, all wrapped in a clean UI design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🧩 Reusable Card Component with dynamic data via `props`
+- 🔄 Toggle functionality using `useState` (e.g., Add Friend / Friend Added)
+- 📱 Responsive layout (mobile, tablet, desktop)
+- 🎨 Styled with Tailwind CSS utility classes
+- ⚛️ Clean component structure for scalability
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 What I Learned
+
+- Passing and handling `props` in components
+- Managing state using the `useState` hook
+- Conditional rendering in React
+- Writing modular, reusable UI
+- Designing responsive layouts with Tailwind's Grid/Flex utilities
+
+## 🚀 Getting Started
+
+### 🔧 Installation
+
+```bash
+git clone https://github.com/sidraakhtar18/react-toggle-card-component.git
+cd react-toggle-card-component
+npm install
+npm start
+🧩 File Structure
+css
+Copy
+Edit
+src/
+│
+├── components/
+│   └── Card.jsx
+├── App.jsx
+└── index.css
+🛠️ Tech Stack
+React.js
+
+Tailwind CSS
+
+JavaScript (ES6+)
+
+📬 Connect With Me
+If you'd like the code or have questions, feel free to connect or comment:
+
+LinkedIn(https://www.linkedin.com/in/sidraakhtar18/)
+GitHub: https://www.github.com/in/sidraakhtar18/)]
+
+📌 License
+This project is open-source and available under the MIT License.
+
+Let me know if you want:
+- A live demo deployment (on Vercel/Netlify),
+- A preview image/banner,
+- GitHub topics/tags,
+- A LICENSE file,  
+and I’ll help you generate it instantly.
